@@ -3,7 +3,7 @@ body {
     background-color: #123;
     color: #E0E0E0;
     margin: 0;
-    padding: 20px;
+    padding: 2px;
     text-align: center;
 }
 
@@ -129,7 +129,7 @@ h1 {
 }
 
 .connector .cavity:nth-child(2) {
-    top: 159px;
+    top: 94px;
     left: 24px;
     rotate: 69deg;
     width: 102px;
@@ -137,35 +137,35 @@ h1 {
 }
 
 .connector .cavity:nth-child(3) {
-    top: 225px;
+    top: 160px;
     left: 39px;
     height: 25px;
     width: 45px;
 }
 
 .connector .cavity:nth-child(4) {
-    top: 225px;
+    top: 160px;
     left: 85px;
     height: 25px;
     width: 25px;
 }
 
 .connector .cavity:nth-child(5) {
-    top: 225px;
+    top: 160px;
     left: 112px;
     height: 25px;
     width: 182px;
 }
 
 .connector .cavity:nth-child(6) {
-    top: 225px;
+    top: 160px;
     left: 296px;
     height: 25px;
     width: 25px;
 }
 
 .connector .cavity:nth-child(7) {
-    top: 267px;
+    top: 202px;
     left: 309px;
     width: 55px;
     height: 25px;
@@ -173,21 +173,21 @@ h1 {
 }
 
 .connector .cavity:nth-child(8) {
-    top: 225px;
+    top: 160px;
     left: 323px;
     height: 25px;
     width: 273px;
 }
 
 .connector .cavity:nth-child(9) {
-    top: 225px;
+    top: 160px;
     left: 598px;
     height: 25px;
     width: 25px;
 }
 
 .connector .cavity:nth-child(10) {
-    top: 267px;
+    top: 202px;
     left: 609px;
     width: 55px;
     height: 25px;
@@ -195,7 +195,7 @@ h1 {
 }
 
 .connector .cavity:nth-child(11) {
-    top: 225px;
+    top: 160px;
     left: 625px;
     height: 25px;
     width: 184px;
@@ -416,7 +416,7 @@ h1 {
     justify-content: center; /* Centra ambos botones */
     align-items: center;
     gap: 20px; /* Espacio entre los botones */
-    margin-top: -8px; /* Ajuste de la distancia desde la parte superior */
+    margin-top: -20px; /* Ajuste de la distancia desde la parte superior */
 }
 
 /* Estilo del botón de evaluar */
@@ -488,3 +488,4 @@ h1 {
         opacity: 0;
     }
 }
+
