@@ -129,209 +129,139 @@ h1 {
 }
 
 .connector .cavity:nth-child(2) {
-    top: 32px;
+    top: 266px;
     left: 41px;
-    rotate: 16deg;
-    width: 45px;
-    height: 17px;
+    width: 386px;
+    height: 16px;
 }
 
 .connector .cavity:nth-child(3) {
-    top: 39px;
-    left: 84px;
-    height: 20px;
-    width: 20px;
-    rotate: 16deg;
+    top: 266px;
+    left: 428px;
+    height: 16px;
+    width: 44px;
 }
 
 .connector .cavity:nth-child(4) {
-    top: 73px;
-    left: 60px;
-    height: 17px;
-    width: 43px;
-    rotate: -69deg;
+    top: 266px;
+    left: 473px;
+    height: 16px;
+    width: 178px;
 }
 
 .connector .cavity:nth-child(5) {
-    top: 85px;
-    left: 102px;
-    rotate: 12.3deg;
-    height: 17px;
-    width: 400px;
+    top: 266px;
+    left: 652px;
+    height: 16px;
+    width: 32px;
 }
 
 .connector .cavity:nth-child(6) {
-    top: 129px;
-    left: 500px;
-    height: 20px;
-    width: 30px;
+    top: 266px;
+    left: 685px;
+    height: 16px;
+    width: 67px;
 }
 
 .connector .cavity:nth-child(7) {
-    top: 86px;
-    left: 505px;
-    width: 72px;
-    height: 17px;
-    rotate: -64deg;
+    top: 344px;
+    left: 651px;
+    width: 180px;
+    height: 16px;
+    rotate: 46.8deg;
 }
 
 .connector .cavity:nth-child(8) {
-    top: 173px;
-    left: 335px;
-    height: 17px;
-    width: 170px;
-    rotate: -22deg;
+    top: 199px;
+    left: 348px;
+    rotate: 63deg;
+    height: 16px;
+    width: 117px;
 }
 
 .connector .cavity:nth-child(9) {
-    top: 207px;
-    left: 318px;
-    height: 20px;
-    width: 20px;
+    top: 156px;
+    left: 389px;
+    height: 16px;
+    rotate: 90deg;
+    width: 55px;
 }
 
 .connector .cavity:nth-child(10) {
-    top: 181px;
-    left: 295px;
-    width: 35px;
-    height: 17px;
-    rotate: 60deg;
+    top: 134px;
+    left: 359px;
+    width: 23px;
+    height: 16px;
 }
 
 .connector .cavity:nth-child(11) {
-    top: 241px;
-    left: 194px;
-    rotate: -24deg;
-    height: 17px;
-    width: 128px;
+    top: 134px;
+    left: 211px;
+    height: 16px;
+    width: 147px;
 }
 
 .connector .cavity:nth-child(12) {
-    top: 247px;
-    left: 293px;
-    rotate: -73deg;
+    top: 97px;
+    left: 331px;
+    rotate: 62deg;
+    height: 16px;
     width: 50px;
-    height: 17px;
 }
 
 .connector .cavity:nth-child(13) {
-    top: 132px;
-    left: 534px;
-    height: 17px;
-    width: 73px;
+    top: 82px;
+    left: 361px;
+    height: 16px;
+    rotate: 291deg;
+    width: 53px;
 }
 
 .connector .cavity:nth-child(14) {
-    top: 130px;
-    left: 608px;
-    height: 20px;
-    width: 20px;
+    top: 181px;
+    left: 413px;
+    rotate: 90deg;
+    width: 95px;
+    height: 16px;
 }
 
 .connector .cavity:nth-child(15) {
-    top: 206px;
-    left: 578px;
-    height: 17px;
-    width: 130px;
-    rotate: 68deg;
+    top: 215px;
+    left: 444px;
+    height: 16px;
+    rotate: -59.6deg;
+    width: 89px;
 }
 
 .connector .cavity:nth-child(16) {
-    top: 132px;
-    left: 629px;
-    height: 17px;
-    width: 93px;
+    top: 159px;
+    left: 510px;
+    width: 24px;
+    height: 24px;
 }
 
 .connector .cavity:nth-child(17) {
-    top: 130px;
-    left: 723px;
-    width: 20px;
-    height: 20px;
+    top: 220px;
+    left: 627px;
+    height: 16px;
+    rotate: -58.6deg;
+    width: 81px;
 }
 
 .connector .cavity:nth-child(18) {
-    top: 213px;
-    left: 662px;
-    height: 17px;
-    width: 140px;
-    rotate: 90deg;
+    top: 164px;
+    left: 535px;
+    width: 71px;
+    height: 16px;
 }
 
 .connector .cavity:nth-child(19) {
-    top: 229px;
-    left: 642px;
-    height: 17px;
-    width: 100px;
-    rotate: 64deg;
+    top: 120px;
+    left: 515px;
+    height: 16px;
+    rotate: -59.6deg;
+    width: 62px;
 }
-
-.connector .cavity:nth-child(20) {
-    top: 201px;
-    left: 673px;
-    width: 75px;
-    height: 17px;
-    rotate: 80deg;
-}
-
-.connector .cavity:nth-child(21) {
-    top: 228px;
-    left: 741px;
-    height: 17px;
-    width: 58px;
-}
-
-.connector .cavity:nth-child(22) {
-    top: 257px;
-    left: 758px;
-    rotate: 27deg;
-    height: 17px;
-    width: 58px;
-}
-
-.connector .cavity:nth-child(23) {
-    top: 308px;
-    left: 716px;
-    height: 17px;
-    width: 22px;
-}
-
-.connector .cavity:nth-child(24) {
-    top: 307px;
-    left: 739px;
-    width: 55px;
-    height: 17px;
-}
-
-.connector .cavity:nth-child(25) {
-    top: 308px;
-    left: 584px;
-    height: 17px;
-    width: 130px;
-}
-
-.connector .cavity:nth-child(26) {
-    top: 308px;
-    left: 546px;
-    width: 37px;
-    height: 17px;
-}
-
-.connector .cavity:nth-child(27) {
-    top: 345px;
-    left: 590px;
-    rotate: 16deg;
-    height: 17px;
-    width: 161px;
-}
-
-.connector .cavity:nth-child(28) {
-    top: 308px;
-    left: 73px;
-    height: 17px;
-    width: 471px;
-}
-
 
 
 
@@ -425,8 +355,8 @@ h1 {
 .cables-grid {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
-    gap: 10px;
-    margin-top: -20px;
+    gap: 5px;
+    margin-top: -25px;
 }
 
 .cable-item {
