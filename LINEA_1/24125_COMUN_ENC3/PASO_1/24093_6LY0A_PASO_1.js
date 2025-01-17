@@ -410,7 +410,6 @@ const numberOfCavities = 18; // Declara aquí el número de cavidades que necesi
 
 // Definir qué cable va en cada cavidad usando arreglos
 const correctConnections = { 
-    1: ['CB', 'TE1', 'E'],  
-    2: ['PT'],       
-    13: ['CN'],           
+    1: ['P', 'TE1', 'CB', 'E', 'S'],  
+    2: ['PT'], 
 };

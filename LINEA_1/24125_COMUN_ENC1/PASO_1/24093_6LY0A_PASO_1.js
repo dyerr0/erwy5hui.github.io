@@ -60,7 +60,7 @@ function startTimer() {
         const currentTime = new Date().getTime();
         const elapsedTime = Math.floor((currentTime - startTime) / 1000);
 
-        timeLeft = 999 - elapsedTime;
+        timeLeft = 180 - elapsedTime;
 
         if (timeLeft <= 0) {
             clearInterval(countdown);
@@ -410,6 +410,12 @@ const numberOfCavities = 18; // Declara aquí el número de cavidades que necesi
 
 // Definir qué cable va en cada cavidad usando arreglos
 const correctConnections = { 
-    5: ['TE1'],  
-    18: ['TE1'],           
+    7: ['MV'],  
+    10: ['MV'],   
+    9: ['PT'],    
+    11: ['MV'],   
+    12: ['MV'],   
+    14: ['MV'],   
+    15: ['PT'],   
+    17: ['MV'],   
 };

@@ -131,22 +131,22 @@ h1 {
 .connector .cavity:nth-child(2) {
     top: 234px;
     left: 41px;
-    width: 386px;
+    width: 393px;
     height: 16px;
 }
 
 .connector .cavity:nth-child(3) {
     top: 234px;
-    left: 428px;
+    left: 436px;
     height: 16px;
-    width: 44px;
+    width: 33px;
 }
 
 .connector .cavity:nth-child(4) {
     top: 234px;
-    left: 473px;
+    left: 551px;
     height: 16px;
-    width: 178px;
+    width: 100px;
 }
 
 .connector .cavity:nth-child(5) {
@@ -168,53 +168,53 @@ h1 {
     left: 652px;
     width: 180px;
     height: 16px;
-    rotate: 44.8deg;
+    rotate: 45.8deg;
 }
 
 .connector .cavity:nth-child(8) {
-    top: 170px;
-    left: 347px;
-    rotate: 62deg;
+    top: 144px;
+    left: 337px;
+    rotate: 47deg;
     height: 16px;
-    width: 117px;
+    width: 75px;
 }
 
 .connector .cavity:nth-child(9) {
     top: 148px;
-    left: 407px;
+    left: 396px;
     height: 16px;
     rotate: 90deg;
-    width: 24px;
+    width: 48px;
 }
 
 .connector .cavity:nth-child(10) {
     top: 107px;
-    left: 359px;
+    left: 326px;
     width: 23px;
     height: 16px;
 }
 
 .connector .cavity:nth-child(11) {
     top: 107px;
-    left: 221px;
+    left: 188px;
     height: 16px;
     width: 137px;
 }
 
 .connector .cavity:nth-child(12) {
     top: 83px;
-    left: 346px;
-    rotate: 62deg;
+    left: 304px;
+    rotate: 48deg;
     height: 16px;
-    width: 28px;
+    width: 30px;
 }
 
 .connector .cavity:nth-child(13) {
     top: 65px;
-    left: 362px;
+    left: 327px;
     height: 16px;
     rotate: 291deg;
-    width: 53px;
+    width: 59px;
 }
 
 .connector .cavity:nth-child(14) {
@@ -231,6 +231,54 @@ h1 {
     height: 16px;
     rotate: -71deg;
     width: 105px;
+}
+
+.connector .cavity:nth-child(16) {
+    top: 290px;
+    left: 520px;
+    height: 16px;
+    rotate: 50deg;
+    width: 116px;
+}
+
+.connector .cavity:nth-child(17) {
+    top: 182px;
+    left: 400px;
+    height: 19px;
+    rotate: 0deg;
+    width: 27px;
+}
+
+.connector .cavity:nth-child(18) {
+    top: 209px;
+    left: 420px;
+    height: 16px;
+    rotate: 46deg;
+    width: 33px;
+}
+
+.connector .cavity:nth-child(19) {
+    top: 234px;
+    left: 471px;
+    height: 16px;
+    rotate: 0deg;
+    width: 53px;
+}
+
+.connector .cavity:nth-child(20) {
+    top: 234px;
+    left: 525px;
+    height: 16px;
+    rotate: 0deg;
+    width: 25px;
+}
+
+.connector .cavity:nth-child(21) {
+    top: 234px;
+    left: 471px;
+    height: 16px;
+    rotate: 0deg;
+    width: 53px;
 }
 
 .step-timer {
