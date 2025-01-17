@@ -406,7 +406,7 @@ function showNextStepButton() {
     };
 }
 
-const numberOfCavities = 15; // Declara aquí el número de cavidades que necesitas
+const numberOfCavities = 11; // Declara aquí el número de cavidades que necesitas
 
 // Definir qué cable va en cada cavidad usando arreglos
 const correctConnections = {

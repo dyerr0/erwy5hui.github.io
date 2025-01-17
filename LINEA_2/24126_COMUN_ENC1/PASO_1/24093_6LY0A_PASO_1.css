@@ -129,116 +129,85 @@ h1 {
 }
 
 .connector .cavity:nth-child(2) {
-    top: 234px;
-    left: 41px;
-    width: 386px;
+    top: 211px;
+    left: 40px;
+    width: 376px;
     height: 16px;
 }
 
 .connector .cavity:nth-child(3) {
-    top: 234px;
-    left: 428px;
+    top: 211px;
+    left: 417px;
     height: 16px;
-    width: 44px;
+    width: 38px;
 }
 
 .connector .cavity:nth-child(4) {
-    top: 234px;
-    left: 473px;
+    top: 211px;
+    left: 456px;
     height: 16px;
-    width: 178px;
+    width: 62px;
 }
 
 .connector .cavity:nth-child(5) {
-    top: 234px;
-    left: 652px;
+    top: 211px;
+    left: 519px;
     height: 16px;
-    width: 26px;
+    width: 30px;
 }
 
 .connector .cavity:nth-child(6) {
-    top: 234px;
-    left: 679px;
+    top: 211px;
+    left: 550px;
     height: 16px;
-    width: 35px;
+    width: 145px;
 }
 
 .connector .cavity:nth-child(7) {
-    top: 314px;
-    left: 652px;
-    width: 180px;
+    top: 280px;
+    left: 388px;
+    width: 127px;
     height: 16px;
-    rotate: 44.8deg;
+    rotate: 66deg;
 }
 
 .connector .cavity:nth-child(8) {
-    top: 170px;
-    left: 347px;
-    rotate: 62deg;
+    top: 350px;
+    left: 472px;
     height: 16px;
-    width: 117px;
+    width: 30px;
 }
 
 .connector .cavity:nth-child(9) {
-    top: 148px;
-    left: 407px;
+    top: 350px;
+    left: 503px;
     height: 16px;
-    rotate: 90deg;
-    width: 24px;
+    ];
+    width: 303px;
 }
 
 .connector .cavity:nth-child(10) {
-    top: 107px;
-    left: 359px;
-    width: 23px;
+    top: 257px;
+    left: 444px;
+    width: 123px;
+    rotate: 29deg;
     height: 16px;
 }
 
 .connector .cavity:nth-child(11) {
-    top: 107px;
-    left: 221px;
+    top: 144px;
+    left: 533px;
+    rotate: -38deg;
     height: 16px;
-    width: 137px;
+    width: 156px;
 }
 
 .connector .cavity:nth-child(12) {
-    top: 83px;
-    left: 346px;
-    rotate: 62deg;
+    top: 102px;
+    left: 499px;
+    rotate: -66deg;
     height: 16px;
-    width: 28px;
-}
-
-.connector .cavity:nth-child(13) {
-    top: 65px;
-    left: 362px;
-    height: 16px;
-    rotate: 291deg;
-    width: 53px;
-}
-
-.connector .cavity:nth-child(14) {
-    top: 178px;
-    left: 413px;
-    rotate: 90deg;
-    width: 95px;
-    height: 16px;
-}
-
-.connector .cavity:nth-child(15) {
-    top: 142px;
-    left: 440px;
-    height: 16px;
-    rotate: -71deg;
-    width: 105px;
-}
-
-.connector .cavity:nth-child(16) {
-    top: 290px;
-    left: 520px;
-    height: 16px;
-    rotate: 50deg;
-    width: 116px;
+    width: 151px;
 }
 
 .step-timer {
